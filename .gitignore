@@ -161,3 +161,5 @@ cython_debug/
 #.idea/
 
 /deep-learning-from-scratch-master/
+/dataset/
+!/deep-learning-from-scratch-master/ch03/main.ipynb
