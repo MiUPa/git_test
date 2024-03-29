@@ -164,4 +164,5 @@ cython_debug/
 /dataset/
 
 /.idea/
-!/3.ipynb
+
+!/deep-learning-from-scratch-master/notebooks
