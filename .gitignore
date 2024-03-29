@@ -166,3 +166,4 @@ cython_debug/
 /.idea/
 
 !/deep-learning-from-scratch-master/notebooks
+!/deep-learning-from-scratch-master/notebooks/ch07.ipynb
